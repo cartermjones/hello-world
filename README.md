@@ -1,2 +1,2 @@
 # hello-world
-A repository for repositing things.
+Hello! I'm Carter Jones. I used to be a coder like you, but then I took an arrow to the knee...
